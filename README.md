@@ -9,5 +9,9 @@
 
 ## YouTube 📺
 * [.NET MAUI + SQLite Math Game](https://youtube.com/playlist?list=PL4G0MUH8YWiAMypwveH2LlLK_o8Jto9CE) - The C# Academy
+* [Learn .NET MAUI - Full Course for Beginners | Build cross-platform apps in C#](https://www.youtube.com/watch?v=DuNLR_NJv8U) - James Montemagno
+
+
+
 
 ## XAML
