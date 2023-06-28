@@ -13,6 +13,9 @@
 * [Learn .NET MAUI - Full Course for Beginners | Build cross-platform apps in C# ~4 hours](https://www.youtube.com/watch?v=DuNLR_NJv8U) - James Montemagno
 * [.NET MAUI Tutorial for Beginners - Build iOS, Android, macOS, & Windows Apps with C# & Visual Studio ~1 hour](https://www.youtube.com/watch?v=rumfIg9qJ_Y) - James Montemagno
 
+## Podcasts 🎤
+* [The .NET MAUI Podcast](https://www.dotnetmauipodcast.com/) - dotnetmauipodcast.com
+
 
 ## XAML
 * [XML Tutorial](https://www.w3schools.com/xml/) - w3schools.com
