@@ -13,6 +13,7 @@
 
 
 ## XAML
+* [XML Tutorial](https://www.w3schools.com/xml/) - w3schools.com
 * [XAML (Overview)](https://learn.microsoft.com/en-us/dotnet/maui/xaml/)
 
 ## Learning
