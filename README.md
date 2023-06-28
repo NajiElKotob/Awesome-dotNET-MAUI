@@ -16,5 +16,7 @@
 * [XML Tutorial](https://www.w3schools.com/xml/) - w3schools.com
 * [XAML (Overview)](https://learn.microsoft.com/en-us/dotnet/maui/xaml/)
 
+## Model-View-ViewModel (MVVM)
+
 ## Learning
 * [Build mobile and desktop apps with .NET MAUI ~5 hours](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/)
