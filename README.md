@@ -7,8 +7,13 @@
 * [Introduction to App Development with .NET MAUI (Presentation)](https://github.com/dotnet-presentations/dotnet-maui/blob/main/Introduction%20to%20App%20Development%20with%20.NET%20MAUI/Introduction%20to%20App%20Development%20with%20.NET%20MAUI%20.pptx)
 * [DevBlogs (.NET MAUI)](https://devblogs.microsoft.com/search?query=MAUI&blogs=%2Fdotnet%2F&sortby=relevance) ⭐ - devblogs.microsoft.com
 ### User Interface
+#### Layouts
+* [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/)
+
+
 #### Conrols
 * [Label](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/label)
+
 
 ## YouTube 📺
 * [.NET MAUI First Look - What is it, how do we use it, and is it ready](https://youtu.be/HmyfjAaPW0g) - IAmTimCorey
