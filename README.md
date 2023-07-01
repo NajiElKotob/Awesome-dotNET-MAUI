@@ -27,6 +27,7 @@
 * [.NET MAUI Tutorial for Beginners - Build iOS, Android, macOS, & Windows Apps with C# & Visual Studio ~1 hour](https://www.youtube.com/watch?v=rumfIg9qJ_Y) ⭐ - James Montemagno
 * [.NET MAUI Course for Beginners – Create Cross-Platform Apps with C#](https://www.youtube.com/watch?v=n3tA3Ku65_8) - freeCodeCamp.org
 * [.NET MAUI Step by Step Build](https://www.youtube.com/watch?v=LrZwd-f0M4I) - Les Jackson
+* [.NET MAUI](https://www.youtube.com/playlist?list=PLzewa6pjbr3KKuUTp8ivXjcR4rvFvyoNw) - Coding Droplets
 
 
 ## Podcasts 🎤
