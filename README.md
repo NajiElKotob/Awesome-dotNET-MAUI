@@ -16,6 +16,7 @@
 
 
 ## YouTube 📺
+* [.NET MAUI for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY) 🌟 - dotNET | James Montemagno
 * [.NET MAUI First Look - What is it, how do we use it, and is it ready](https://youtu.be/HmyfjAaPW0g) - IAmTimCorey
 * [.NET MAUI + SQLite Math Game](https://youtube.com/playlist?list=PL4G0MUH8YWiAMypwveH2LlLK_o8Jto9CE) - The C# Academy
 * [Learn .NET MAUI - Full Course for Beginners | Build cross-platform apps in C# ~4 hours](https://www.youtube.com/watch?v=DuNLR_NJv8U) - James Montemagno
