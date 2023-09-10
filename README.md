@@ -31,18 +31,20 @@
 * [.NET MAUI](https://www.youtube.com/playlist?list=PLzewa6pjbr3KKuUTp8ivXjcR4rvFvyoNw) - Coding Droplets
 
 
+## Model-View-ViewModel (MVVM)
+
+## Learning
+* [Build your first app](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-windows&tabs=vswin)
+* [Build mobile and desktop apps with .NET MAUI ~5 hours](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/)
+
 ## Podcasts 🎤
 * [The .NET MAUI Podcast](https://www.dotnetmauipodcast.com/) - dotnetmauipodcast.com
-
+  
 -----
 
 ## XAML
 * [XML Tutorial](https://www.w3schools.com/xml/) - w3schools.com
 * [XAML (Overview)](https://learn.microsoft.com/en-us/dotnet/maui/xaml/)
 
-## Model-View-ViewModel (MVVM)
 
-## Learning
-* [Build your first app](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-windows&tabs=vswin)
-* [Build mobile and desktop apps with .NET MAUI ~5 hours](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/)
 
