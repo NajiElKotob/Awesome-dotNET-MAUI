@@ -40,7 +40,9 @@
 
 ## Podcasts 🎤
 * [The .NET MAUI Podcast](https://www.dotnetmauipodcast.com/) - dotnetmauipodcast.com
-  
+
+## Articles
+* [GoForGoldman](https://goforgoldman.com/posts/maui-ui-july-23/) - goforgoldman.com
 -----
 
 ## XAML
