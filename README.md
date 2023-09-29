@@ -11,6 +11,8 @@
 ### User Interface
 #### Layouts
 * [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/)
+* Grid
+  * [.NET MAUI Challenge 1: Simple Grid in .NET MAUI 📺 6min](https://www.youtube.com/watch?v=D4nd3MDTB30) - Progress Telerik
 
 #### Navigation
 * [.NET MAUI Shell overview](https://learn.microsoft.com/en-us/dotnet/maui/fundamentals/shell/)
