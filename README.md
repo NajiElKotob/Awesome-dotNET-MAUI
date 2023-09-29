@@ -8,9 +8,6 @@
 * [Community Toolkits Documentation](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/)
 * [DevBlogs (.NET MAUI)](https://devblogs.microsoft.com/search?query=MAUI&blogs=%2Fdotnet%2F&sortby=relevance) ⭐ - devblogs.microsoft.com
 
-### Codes
-* [.NET MAUI Samples](https://github.com/dotnet/maui-samples)
-
 ### User Interface
 #### Layouts
 * [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/)
@@ -49,6 +46,7 @@
 -----
 
 ## Samples
+* [.NET MAUI Samples](https://github.com/dotnet/maui-samples) - dotNET
 * [Coffee-Shop-MAUI](https://github.com/diegoal3mx/Coffee-Shop-MAUI) - Diego Juarez
 * [Simple Rating Control for .NET MAUI](https://github.com/tsjdev-apps/maui-ratingcontrol) - Sebastian Jensen
   
