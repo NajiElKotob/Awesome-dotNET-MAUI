@@ -29,7 +29,7 @@
 * [.NET MAUI Course for Beginners – Create Cross-Platform Apps with C#](https://www.youtube.com/watch?v=n3tA3Ku65_8) - freeCodeCamp.org
 * [.NET MAUI Step by Step Build](https://www.youtube.com/watch?v=LrZwd-f0M4I) - Les Jackson
 * [.NET MAUI](https://www.youtube.com/playlist?list=PLzewa6pjbr3KKuUTp8ivXjcR4rvFvyoNw) - Coding Droplets
-
+* [Devs School](https://www.youtube.com/@devsschool) - Devs School
 
 ## Model-View-ViewModel (MVVM)
 
