@@ -45,6 +45,13 @@
 
 ## Articles
 * [GoForGoldman](https://goforgoldman.com/posts/maui-ui-july-23/) - goforgoldman.com
+
+-----
+
+## Samples
+* [Coffee-Shop-MAUI](https://github.com/diegoal3mx/Coffee-Shop-MAUI) - Diego Juarez
+
+  
 -----
 
 ## XAML
