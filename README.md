@@ -50,7 +50,7 @@
 
 ## Samples
 * [Coffee-Shop-MAUI](https://github.com/diegoal3mx/Coffee-Shop-MAUI) - Diego Juarez
-
+* [Simple Rating Control for .NET MAUI](https://github.com/tsjdev-apps/maui-ratingcontrol) - Sebastian Jensen
   
 -----
 
