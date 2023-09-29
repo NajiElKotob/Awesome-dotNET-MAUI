@@ -15,6 +15,8 @@
 #### Layouts
 * [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/)
 
+#### Navigation
+* [.NET MAUI Shell overview](https://learn.microsoft.com/en-us/dotnet/maui/fundamentals/shell/)
 
 #### Conrols
 * [Label](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/label)
