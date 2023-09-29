@@ -32,7 +32,8 @@
 * [.NET MAUI](https://www.youtube.com/playlist?list=PLzewa6pjbr3KKuUTp8ivXjcR4rvFvyoNw) - Coding Droplets
 * [Devs School](https://www.youtube.com/@devsschool) - Devs School
   * [Coffee Shop App](https://youtu.be/soz4o0zKars?si=8TxXN-zpimva1_Kt) 
-
+* [Progress Telerik](https://www.youtube.com/@telerik)
+  
 ## Model-View-ViewModel (MVVM)
 
 ## Learning
