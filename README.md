@@ -20,6 +20,14 @@
 #### Conrols
 * [Label](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/label)
 
+## Model-View-ViewModel (MVVM)
+
+## Community Toolkit
+* [.NET Multi-platform App UI (.NET MAUI) Community Toolkit documentation](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/)
+-----
+## Learning
+* [Build your first app](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-windows&tabs=vswin)
+* [Build mobile and desktop apps with .NET MAUI ~5 hours](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/)
 
 ## YouTube 📺
 * [James Montemagno](https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A)
@@ -35,17 +43,12 @@
   * [Coffee Shop App](https://youtu.be/soz4o0zKars?si=8TxXN-zpimva1_Kt) 
 * [Progress Telerik](https://www.youtube.com/@telerik)
   
-## Model-View-ViewModel (MVVM)
-
-## Learning
-* [Build your first app](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-windows&tabs=vswin)
-* [Build mobile and desktop apps with .NET MAUI ~5 hours](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/)
-
 ## Podcasts 🎤
 * [The .NET MAUI Podcast](https://www.dotnetmauipodcast.com/) - dotnetmauipodcast.com
 
 ## Articles
 * [GoForGoldman](https://goforgoldman.com/posts/maui-ui-july-23/) - goforgoldman.com
+
 
 -----
 
@@ -53,7 +56,7 @@
 * [.NET MAUI Samples](https://github.com/dotnet/maui-samples) - dotNET
 * [Coffee-Shop-MAUI](https://github.com/diegoal3mx/Coffee-Shop-MAUI) - Diego Juarez
 * [Simple Rating Control for .NET MAUI](https://github.com/tsjdev-apps/maui-ratingcontrol) - Sebastian Jensen
-* [Design Inpiration](https://dribbble.com/search/mobile-app) - dribbble.com
+* [Design Inspiration](https://dribbble.com/search/mobile-app) - dribbble.com
     
 -----
 
