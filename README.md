@@ -28,6 +28,7 @@
 ## Learning
 * [Build your first app](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-windows&tabs=vswin)
 * [Build mobile and desktop apps with .NET MAUI ~5 hours](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/)
+* [Resources for learning .NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/get-started/resources) 🌟
 
 ## Concepts
 * [What is .NET MAUI?](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui)
