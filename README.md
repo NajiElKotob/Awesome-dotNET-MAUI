@@ -29,6 +29,9 @@
 * [Build your first app](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-windows&tabs=vswin)
 * [Build mobile and desktop apps with .NET MAUI ~5 hours](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/)
 
+## Concepts
+* [Configuring Life Cycle Events in .NET MAUI Apps](https://www.syncfusion.com/blogs/post/configuring-life-cycle-events-in-net-maui-apps.aspx) - syncfusion.com
+
 ## YouTube 📺
 * [James Montemagno](https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A)
   * [.NET MAUI for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY) 🌟 - dotNET | James Montemagno
