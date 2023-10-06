@@ -30,6 +30,7 @@
 * [Build mobile and desktop apps with .NET MAUI ~5 hours](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/)
 
 ## Concepts
+* [What is .NET MAUI?](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui)
 * [Configuring Life Cycle Events in .NET MAUI Apps](https://www.syncfusion.com/blogs/post/configuring-life-cycle-events-in-net-maui-apps.aspx) - syncfusion.com
 
 ## YouTube 📺
