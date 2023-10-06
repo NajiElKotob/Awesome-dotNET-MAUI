@@ -45,6 +45,9 @@
 * [Devs School](https://www.youtube.com/@devsschool) - Devs School
   * [Coffee Shop App](https://youtu.be/soz4o0zKars?si=8TxXN-zpimva1_Kt) 
 * [Progress Telerik](https://www.youtube.com/@telerik)
+
+## Blogs
+* [.NET MAUI Blog - Syncfusion](https://www.syncfusion.com/blogs/category/net-maui) - syncfusion.com
   
 ## Podcasts 🎤
 * [The .NET MAUI Podcast](https://www.dotnetmauipodcast.com/) - dotnetmauipodcast.com
