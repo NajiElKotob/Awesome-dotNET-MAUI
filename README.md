@@ -57,7 +57,7 @@
 
 ## Articles
 * [GoForGoldman](https://goforgoldman.com/posts/maui-ui-july-23/) - goforgoldman.com
-
+* [What’s the Difference Between Web Apps, Native Apps, and Hybrid Apps?](https://aws.amazon.com/compare/the-difference-between-web-apps-native-apps-and-hybrid-apps/) - aws.amazon.com
 
 -----
 
