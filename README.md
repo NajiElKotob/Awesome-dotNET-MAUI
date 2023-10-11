@@ -9,21 +9,23 @@
 * [DevBlogs (.NET MAUI)](https://devblogs.microsoft.com/search?query=MAUI&blogs=%2Fdotnet%2F&sortby=relevance) ⭐ - devblogs.microsoft.com
 
 ### User Interface
+#### Pages
 #### Layouts
 * [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/)
 * Grid
   * [.NET MAUI Challenge 1: Simple Grid in .NET MAUI 📺 6min](https://www.youtube.com/watch?v=D4nd3MDTB30) - Progress Telerik
+#### Views (Controls)
+* [Label](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/label)
 
-#### Navigation
+#### Navigation (Shell)
 * [.NET MAUI Shell overview](https://learn.microsoft.com/en-us/dotnet/maui/fundamentals/shell/)
 
-#### Conrols
-* [Label](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/label)
 
 ## Model-View-ViewModel (MVVM)
 
 ## Community Toolkit
 * [.NET Multi-platform App UI (.NET MAUI) Community Toolkit documentation](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/)
+  
 -----
 ## Learning
 * [Build your first app](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-windows&tabs=vswin)
