@@ -12,14 +12,14 @@
 #### Pages
 #### Layouts
 * [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/)
-* Grid
-  * [.NET MAUI Challenge 1: Simple Grid in .NET MAUI 📺 6min](https://www.youtube.com/watch?v=D4nd3MDTB30) - Progress Telerik
+  * Grid
+    * [.NET MAUI Challenge 1: Simple Grid in .NET MAUI 📺 6min](https://www.youtube.com/watch?v=D4nd3MDTB30) - Progress Telerik
 #### Views (Controls)
 * [Label](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/label)
 
 #### Navigation (Shell)
 * [.NET MAUI Shell overview](https://learn.microsoft.com/en-us/dotnet/maui/fundamentals/shell/)
-
+* [.NET MAUI Shell navigation (Routing)](https://learn.microsoft.com/en-us/dotnet/maui/fundamentals/shell/navigation)
 
 ## Model-View-ViewModel (MVVM)
 
