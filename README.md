@@ -14,11 +14,10 @@
 * FlyoutPage
 * NavigationPage
 * TabbedPage
-#### [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/#layouts)
-* [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/)
-  * Grid
-    * [.NET MAUI Challenge 1: Simple Grid in .NET MAUI 📺 6min](https://www.youtube.com/watch?v=D4nd3MDTB30) - Progress Telerik
-    * [Grid](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/grid) - Microsoft Learn
+#### [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/)
+* Grid
+  * [.NET MAUI Challenge 1: Simple Grid in .NET MAUI 📺 6min](https://www.youtube.com/watch?v=D4nd3MDTB30) - Progress Telerik
+  * [Grid](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/grid) - Microsoft Learn
 #### [Views](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/#views) (Controls)
 * [Label](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/label)
 
