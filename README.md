@@ -14,7 +14,7 @@
 * FlyoutPage
 * NavigationPage
 * TabbedPage
-#### Layouts
+#### [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/#layouts)
 * [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/)
   * Grid
     * [.NET MAUI Challenge 1: Simple Grid in .NET MAUI 📺 6min](https://www.youtube.com/watch?v=D4nd3MDTB30) - Progress Telerik
