@@ -51,7 +51,9 @@
   * [Coffee Shop App](https://youtu.be/soz4o0zKars?si=8TxXN-zpimva1_Kt)
   * [BMI Calculator](https://www.youtube.com/watch?v=cdkkWNJkkkc)
 * [Progress Telerik](https://www.youtube.com/@telerik)
-
+* Derek Banas
+  * [.NET MAUI Tutorial Full Course ~5 hours](https://www.youtube.com/watch?v=FT5P5ZktzZI) 
+ 
 ## Blogs
 * [.NET MAUI Blog - Syncfusion](https://www.syncfusion.com/blogs/category/net-maui) - syncfusion.com
   
