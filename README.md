@@ -9,7 +9,11 @@
 * [DevBlogs (.NET MAUI)](https://devblogs.microsoft.com/search?query=MAUI&blogs=%2Fdotnet%2F&sortby=relevance) ⭐ - devblogs.microsoft.com
 
 ### User Interface
-#### Pages
+#### [Pages](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/#pages)
+* ContentPage
+* FlyoutPage
+* NavigationPage
+* TabbedPage
 #### Layouts
 * [Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/)
   * Grid
