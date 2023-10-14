@@ -2,8 +2,8 @@
 
 
 ## Docs
+* [.NET Multi-platform App UI documentation (Docs)](https://learn.microsoft.com/en-us/dotnet/maui/) ⭐
 * [What is .NET MAUI?](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui) | .NET Multi-platform App UI (.NET MAUI) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML.
-* [.NET Multi-platform App UI documentation](https://learn.microsoft.com/en-us/dotnet/maui/)
 * [Introduction to App Development with .NET MAUI (Presentation)](https://github.com/dotnet-presentations/dotnet-maui/blob/main/Introduction%20to%20App%20Development%20with%20.NET%20MAUI/Introduction%20to%20App%20Development%20with%20.NET%20MAUI%20.pptx)
 * [Community Toolkits Documentation](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/)
 * [DevBlogs (.NET MAUI)](https://devblogs.microsoft.com/search?query=MAUI&blogs=%2Fdotnet%2F&sortby=relevance) ⭐ - devblogs.microsoft.com
