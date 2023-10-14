@@ -26,6 +26,7 @@
 * [.NET MAUI Shell navigation (Routing)](https://learn.microsoft.com/en-us/dotnet/maui/fundamentals/shell/navigation)
 
 ## Model-View-ViewModel (MVVM)
+* [Data binding and MVVM](https://learn.microsoft.com/en-us/dotnet/maui/xaml/fundamentals/mvvm)
 
 ## Community Toolkit
 * [.NET Multi-platform App UI (.NET MAUI) Community Toolkit documentation](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/)
