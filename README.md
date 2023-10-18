@@ -7,6 +7,7 @@
 * [Introduction to App Development with .NET MAUI (Presentation)](https://github.com/dotnet-presentations/dotnet-maui/blob/main/Introduction%20to%20App%20Development%20with%20.NET%20MAUI/Introduction%20to%20App%20Development%20with%20.NET%20MAUI%20.pptx) 🍪
 * [Community Toolkits Documentation](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/)
 * [DevBlogs (.NET MAUI)](https://devblogs.microsoft.com/search?query=MAUI&blogs=%2Fdotnet%2F&sortby=relevance) ⭐ - devblogs.microsoft.com
+* [Focus on MAUI 📺](https://learn.microsoft.com/en-us/shows/dotnetconf-focus-on-maui/) - learn.microsoft.com
 
 ### User Interface
 #### [Pages](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/#pages)
