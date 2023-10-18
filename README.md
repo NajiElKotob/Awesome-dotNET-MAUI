@@ -60,6 +60,7 @@
  
 ## Blogs
 * [.NET MAUI Blog - Syncfusion](https://www.syncfusion.com/blogs/category/net-maui) - syncfusion.com
+* [C# Corner](https://www.c-sharpcorner.com/topics/MAUI) - c-sharpcorner
   
 ## Podcasts 🎤
 * [The .NET MAUI Podcast](https://www.dotnetmauipodcast.com/) - dotnetmauipodcast.com
