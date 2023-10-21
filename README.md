@@ -75,7 +75,7 @@
 ## Samples
 * [.NET MAUI Samples](https://github.com/dotnet/maui-samples) - dotNET
 * [Coffee-Shop-MAUI](https://github.com/diegoal3mx/Coffee-Shop-MAUI) - Diego Juarez
-* [Simple Rating Control for .NET MAUI](https://github.com/tsjdev-apps/maui-ratingcontrol) + [Article](https://medium.com/@tsjdevapps/net-maui-create-a-simple-rating-control-560566fa5014)- Sebastian Jensen
+* [Simple Rating Control for .NET MAUI](https://github.com/tsjdev-apps/maui-ratingcontrol) + [Article](https://medium.com/@tsjdevapps/net-maui-create-a-simple-rating-control-560566fa5014) - Sebastian Jensen
 * [Design Inspiration](https://dribbble.com/search/mobile-app) - dribbble.com
     
 -----
