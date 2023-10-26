@@ -28,6 +28,7 @@
 
 ## Model-View-ViewModel (MVVM)
 * [Data binding and MVVM](https://learn.microsoft.com/en-us/dotnet/maui/xaml/fundamentals/mvvm)
+* [What is the MVVM pattern, What benefits does MVVM have? 📺](https://www.youtube.com/watch?v=AXpTeiWtbC8) - James Montemagno
 
 ## Community Toolkit
 * [.NET Multi-platform App UI (.NET MAUI) Community Toolkit documentation](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/)
