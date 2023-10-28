@@ -78,6 +78,7 @@
 * [Coffee-Shop-MAUI](https://github.com/diegoal3mx/Coffee-Shop-MAUI) - Diego Juarez
 * [Simple Rating Control for .NET MAUI](https://github.com/tsjdev-apps/maui-ratingcontrol) + [Article](https://medium.com/@tsjdevapps/net-maui-create-a-simple-rating-control-560566fa5014) - Sebastian Jensen
 * [Design Inspiration](https://dribbble.com/search/mobile-app) - dribbble.com
+* [MyCoffeeApp](https://github.com/jamesmontemagno/MyCoffeeApp) - James Montemagno
     
 -----
 
