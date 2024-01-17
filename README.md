@@ -1,4 +1,4 @@
-![image](https://github.com/NajiElKotob/Awesome-dotNET-MAUI/assets/24192895/0229a8d7-c3c1-4954-bc5b-2c4b1ada3a17)# Awesome .NET MAUI
+# Awesome .NET MAUI
 
 
 ## Docs
