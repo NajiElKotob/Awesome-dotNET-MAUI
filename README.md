@@ -1,4 +1,4 @@
-# Awesome .NET MAUI
+![image](https://github.com/NajiElKotob/Awesome-dotNET-MAUI/assets/24192895/0229a8d7-c3c1-4954-bc5b-2c4b1ada3a17)# Awesome .NET MAUI
 
 
 ## Docs
@@ -59,7 +59,8 @@
 * [Progress Telerik](https://www.youtube.com/@telerik)
 * Derek Banas
   * [.NET MAUI Tutorial Full Course ~5 hours](https://www.youtube.com/watch?v=FT5P5ZktzZI) 
- 
+* [Choosing the best mobile app framework 📺 ~12min](https://www.youtube.com/watch?v=4m7msadL5iA) - Microsoft for Startups
+  
 ## Blogs
 * [.NET MAUI Blog - Syncfusion](https://www.syncfusion.com/blogs/category/net-maui) - syncfusion.com
 * [C# Corner](https://www.c-sharpcorner.com/topics/MAUI) - c-sharpcorner
