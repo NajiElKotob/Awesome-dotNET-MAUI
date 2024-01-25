@@ -74,6 +74,12 @@
 
 -----
 
+## Devices 📱
+### Android
+* [Set up Android device for debugging](https://learn.microsoft.com/en-us/dotnet/maui/android/device/setup?view=net-maui-8.0)
+
+-----
+
 ## Samples
 * [.NET MAUI Samples](https://github.com/dotnet/maui-samples) - dotNET
 * [Coffee-Shop-MAUI](https://github.com/diegoal3mx/Coffee-Shop-MAUI) - Diego Juarez
