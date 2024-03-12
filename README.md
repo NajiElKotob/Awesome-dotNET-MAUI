@@ -60,6 +60,11 @@
 * Derek Banas
   * [.NET MAUI Tutorial Full Course ~5 hours](https://www.youtube.com/watch?v=FT5P5ZktzZI) 
 * [Choosing the best mobile app framework 📺 ~12min](https://www.youtube.com/watch?v=4m7msadL5iA) - Microsoft for Startups
+
+### Deployment
+* [Visual Studio Toolbox Live: Deploying .NET MAUI Apps ~1 hour](https://www.youtube.com/watch?v=bkKBW5t6kCs) - Microsoft Visual Studio
+
+-----
   
 ## Blogs
 * [.NET MAUI Blog - Syncfusion](https://www.syncfusion.com/blogs/category/net-maui) - syncfusion.com
